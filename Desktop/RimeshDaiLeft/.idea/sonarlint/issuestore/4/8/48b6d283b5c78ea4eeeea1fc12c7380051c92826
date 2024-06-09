@@ -1,0 +1,9 @@
+
+>
+java:S1604'"(Make this anonymous inner class a lambda(Ãžî¯
+<
+java:S1452%"&Remove usage of generic wildcard type.(‹ ì
+G
+java:S3599&",Use another way to initialize this instance.(ÀÍ§†ùÿÿÿÿ
+t
+java:S1171&"YMove the contents of this initializer to a standard constructor or to field initializers.(ÀÍ§†ùÿÿÿÿ

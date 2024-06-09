@@ -1,0 +1,10 @@
+
+]	java:S125*"<This block of commented-out lines of code should be removed.(³‡Ù–üÿÿÿÿ8´‹ï®å1
+y
+java:S1128"WRemove this unused import 'com.bug.reporting.system.bugreportingsystem.bug.entity.Bug'.(ˆ®±¨øÿÿÿÿ8·ó©´å1
+
+java:S1128"]Remove this unused import 'com.bug.reporting.system.bugreportingsystem.bug.entity.BugStatus'.(ıÚ¨ôúÿÿÿÿ8·ó©´å1
+w
+java:S1128"ZRemove this unused import 'com.bug.reporting.system.bugreportingsystem.bug.model.PickDto'.( Óô¦8·ó©´å1
+w
+java:S1128"URemove this unused import 'org.springframework.security.access.prepost.PreAuthorize'.(ˆ†×ùÿÿÿÿ8·ó©´å1

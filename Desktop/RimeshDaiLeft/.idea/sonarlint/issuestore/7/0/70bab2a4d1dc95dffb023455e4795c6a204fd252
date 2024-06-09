@@ -1,0 +1,11 @@
+
+V
+java:S5857";Replace this use of a reluctant quantifier with "[^A-Z]*+".(Ø¬í€ýÿÿÿÿ
+V
+java:S5857";Replace this use of a reluctant quantifier with "[^a-z]*+".(Ø¬í€ýÿÿÿÿ
+V
+java:S5857";Replace this use of a reluctant quantifier with "[^0-9]*+".(Ø¬í€ýÿÿÿÿ
+]
+java:S5857"BReplace this use of a reluctant quantifier with "[^#?!@$%^&*-]*+".(Ø¬í€ýÿÿÿÿ
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ø¬í€ýÿÿÿÿ

@@ -1,0 +1,11 @@
+/* Navbar.css */
+.navbar-brand {
+    font-size: 24px; /* Adjust font size */
+    font-weight: bold; /* Make the text bold */
+    color: #333; /* Change text color */
+  }
+  
+  .navbar-brand:hover {
+    color: #555; /* Change text color on hover */
+  }
+  
